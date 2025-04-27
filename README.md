@@ -2,9 +2,9 @@
 
 ## Hardware Platforms
 
----
-
 ### Low Performance
+
+<!-- ![]() -->
 
 | **Device**                  | Arduino Nano 33 BLE Sense          |
 |-----------------------------|------------------------------------|
@@ -20,9 +20,9 @@
 | **Dimensions**              | 45mm x 18mm                       |
 | **Use Case**                | TinyML, IoT, wearables            |
 
----
 
 ### Lightweight (Medium Performance)
+<!-- ![]() -->
 
 | **Device**                  | Raspberry Pi                      |
 |-----------------------------|------------------------------------|
@@ -38,9 +38,9 @@
 | **Dimensions**              | Not specified                     |
 | **Use Case**                | Lightweight IoT, smart home, education |
 
----
 
 ### High Performance Computing/Applications
+<!-- ![]() -->
 
 | **Device**                  | NVIDIA Jetson Nano                |
 |-----------------------------|------------------------------------|
@@ -56,5 +56,4 @@
 | **Dimensions**              | Not specified                     |
 | **Use Case**                | AI applications, neural networks, image processing |
 
----
 
