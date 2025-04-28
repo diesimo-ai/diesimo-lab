@@ -4,7 +4,7 @@
 
 ### Low Performance
 
-<!-- ![]() -->
+![](./resources/images/arduino-nano/nano.jpg)
 
 | **Device**                  | Arduino Nano 33 BLE Sense          |
 |-----------------------------|------------------------------------|
@@ -22,7 +22,7 @@
 
 
 ### Lightweight (Medium Performance)
-<!-- ![]() -->
+![](./resources/images/raspberry-pi/pi.jpg)
 
 | **Device**                  | Raspberry Pi                      |
 |-----------------------------|------------------------------------|
@@ -40,7 +40,7 @@
 
 
 ### High Performance Computing/Applications
-<!-- ![]() -->
+![](./resources/images/jetson-nano/jetson.jpg)
 
 | **Device**                  | NVIDIA Jetson Nano                |
 |-----------------------------|------------------------------------|
