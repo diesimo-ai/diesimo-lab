@@ -1,5 +1,7 @@
 # Diesimo Lab 
 
+![](./resources/images/cover.png)
+
 ## Hardware Platforms
 
 ### Low Performance
@@ -22,7 +24,7 @@
 
 
 ### Lightweight (Medium Performance)
-![](./resources/images/raspberry-pi/pi.jpg)
+![](./resources/images/pi/pi.jpg)
 
 | **Device**                  | Raspberry Pi                      |
 |-----------------------------|------------------------------------|
@@ -40,7 +42,7 @@
 
 
 ### High Performance Computing/Applications
-![](./resources/images/jetson-nano/jetson.jpg)
+![](./resources/images/jetson-nano/jet-nano.png)
 
 | **Device**                  | NVIDIA Jetson Nano                |
 |-----------------------------|------------------------------------|
