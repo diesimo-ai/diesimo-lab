@@ -2,6 +2,16 @@
 
 ![](./resources/images/cover.png)
 
+Welcome to the Open Edge AI Lab.
+
+## Edge AI Models Garden
+
+- Model Garden: [Hugging Face Collections (Coming soon!)](#)
+- Demos (Sim): [Hugging Face Spaces](#)
+
+In the meantime, find the best model suitable for application requirements here: [Edge AI Model Zoos](https://github.com/afondiel/Edge-AI-Model-Zoo).
+
+
 ## Hardware Platforms
 
 ### Low Performance
@@ -59,3 +69,33 @@
 | **Use Case**                | AI applications, neural networks, image processing |
 
 
+## Embodied Agents
+
+For real-world data collection and testing. 
+
+### Unmanned Ground Vehicles (UGVs)
+
+(Lego sets) Robotics Platforms 
+
+![](./resources/images/embodied-agents/ugv-0.jpg)
+
+![](./resources/images/embodied-agents/ugv-1.jpg)
+
+
+### Unmanned Aerial Vehicles (UAVs)
+
+Drone
+
+![](./resources/images/embodied-agents/uavs.jpg)
+
+## References
+
+- [Edge AI Engineering (Main)](https://github.com/afondiel/edge-ai-engineering)
+- [Edge AI Technical Guide](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/concepts)
+- [Edge AI End-to-End Stack](https://www.qualcomm.com/developer/artificial-intelligence)
+- [Edge AI Deployment Stack](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/concepts/deployment)
+- [Edge AI Optimization Stack](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/concepts/optimization)
+- [Edge AI Platforms](https://github.com/afondiel/Edge-AI-Platforms)
+- [Edge AI Model Zoos](https://github.com/afondiel/Edge-AI-Model-Zoo)
+- [Edge AI Benchmarking & Optimization](https://github.com/afondiel/Edge-AI-Model-Zoo/blob/main/model-bench-prof-opt-guide.md)
+- [Edge AI Frameworks](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/concepts/frameworks)
