@@ -6,10 +6,10 @@ Welcome to the Open Edge AI Lab.
 
 ## Edge AI Models Garden
 
-- Model Garden: [Hugging Face Collections (Coming soon!)](#)
+- Model Garden: [Hugging Face Collections (Coming soon!)](https://huggingface.co/collections/diesimo-ai/edge-ai-67856b736bc168b98abf3ee0)
 - Demos (Sim): [Hugging Face Spaces](#)
 
-In the meantime, find the best model suitable for application requirements here: [Edge AI Model Zoos](https://github.com/afondiel/Edge-AI-Model-Zoo).
+In the meantime, find the best model suitable for your application requirements here: [Edge AI Model Zoos](https://github.com/afondiel/Edge-AI-Model-Zoo).
 
 
 ## Hardware Platforms
