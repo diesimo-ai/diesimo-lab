@@ -7,7 +7,7 @@ Welcome to the Open Edge AI Lab.
 ## Edge AI Models Garden
 
 - Model Garden: [Hugging Face Collections (Coming soon!)](https://huggingface.co/collections/diesimo-ai/edge-ai-67856b736bc168b98abf3ee0)
-- Demos (Sim): [Hugging Face Spaces](#)
+- Demos: [Hugging Face Spaces (Coming soon!)](#)
 
 In the meantime, find the best model suitable for your application requirements here: [Edge AI Model Zoos](https://github.com/afondiel/Edge-AI-Model-Zoo).
 
@@ -95,7 +95,7 @@ Drone
 - [Edge AI End-to-End Stack](https://www.qualcomm.com/developer/artificial-intelligence)
 - [Edge AI Deployment Stack](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/concepts/deployment)
 - [Edge AI Optimization Stack](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/concepts/optimization)
+- [Edge AI Frameworks](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/concepts/frameworks)
 - [Edge AI Platforms](https://github.com/afondiel/Edge-AI-Platforms)
 - [Edge AI Model Zoos](https://github.com/afondiel/Edge-AI-Model-Zoo)
-- [Edge AI Benchmarking & Optimization](https://github.com/afondiel/Edge-AI-Model-Zoo/blob/main/model-bench-prof-opt-guide.md)
-- [Edge AI Frameworks](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/concepts/frameworks)
+- [Edge AI Model Benchmarking](https://github.com/afondiel/Edge-AI-Model-Zoo/blob/main/model-bench-prof-opt-guide.md)
