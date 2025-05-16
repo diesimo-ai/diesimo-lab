@@ -1,6 +1,6 @@
 # Diesimo Lab 
 
-![](./resources/images/cover.png)
+![Edge AI Platforms](./resources/images/cover.jpeg)
 
 Welcome to the Open Edge AI Lab.
 
@@ -14,9 +14,9 @@ In the meantime, find the best model suitable for your application requirements 
 
 ## Hardware Platforms
 
-### Low Performance
+### (Ultra) Low Performance
 
-![](./resources/images/arduino-nano/nano.jpg)
+![Arduino Nano 33 BLE Sense](./resources/images/arduino-nano/nano.jpeg)
 
 | **Device**                  | Arduino Nano 33 BLE Sense          |
 |-----------------------------|------------------------------------|
@@ -33,8 +33,8 @@ In the meantime, find the best model suitable for your application requirements 
 | **Use Case**                | TinyML, IoT, wearables            |
 
 
-### Lightweight (Medium Performance)
-![](./resources/images/pi/pi.jpg)
+### Lightweight (Entry/Medium) Performance
+![Raspberry Pi 3B](./resources/images/pi/pi.jpeg)
 
 | **Device**                  | Raspberry Pi                      |
 |-----------------------------|------------------------------------|
@@ -52,7 +52,7 @@ In the meantime, find the best model suitable for your application requirements 
 
 
 ### High Performance Computing/Applications
-![](./resources/images/jetson-nano/jet-nano.png)
+![NVIDIA Jetson Nano](./resources/images/jetson-nano/jet-nano.jpeg)
 
 | **Device**                  | NVIDIA Jetson Nano                |
 |-----------------------------|------------------------------------|
@@ -77,16 +77,16 @@ For real-world data collection and testing.
 
 (Lego sets) Robotics Platforms 
 
-![](./resources/images/embodied-agents/ugv-0.jpg)
+![ugv](./resources/images/embodied-agents/ugv-0.jpg)
 
-![](./resources/images/embodied-agents/ugv-1.jpg)
+![ugv](./resources/images/embodied-agents/ugv-1.jpg)
 
 
 ### Unmanned Aerial Vehicles (UAVs)
 
 Drone
 
-![](./resources/images/embodied-agents/uavs.jpg)
+![uavs](./resources/images/embodied-agents/uavs.jpg)
 
 ## References
 
