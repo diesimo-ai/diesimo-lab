@@ -20,7 +20,7 @@ In the meantime, find the best model suitable for your application requirements 
 
 | **Device**                  | Arduino Nano 33 BLE Sense          |
 |-----------------------------|------------------------------------|
-| **Processor**               | nRF52840 (ARM Cortex-M4 @ 64 MHz) |
+| **CPU**               | nRF52840 (ARM Cortex-M4 @ 64 MHz) |
 | **GPU**                     | None                              |
 | **Memory**                  | 1MB Flash, 256KB RAM              |
 | **Power Consumption**       | Ultra-low power modes             |
@@ -38,7 +38,7 @@ In the meantime, find the best model suitable for your application requirements 
 
 | **Device**                  | Raspberry Pi                      |
 |-----------------------------|------------------------------------|
-| **Processor**               | Quad-Core ARM Cortex A53          |
+| **CPU**               | Quad-Core ARM Cortex A53          |
 | **GPU**                     | None                              |
 | **Memory**                  | 1GB RAM                           |
 | **Power Consumption**       | 4W (5V, 2.5A ≈ 12.5W, varies by load) |
@@ -56,7 +56,7 @@ In the meantime, find the best model suitable for your application requirements 
 
 | **Device**                  | NVIDIA Jetson Nano                |
 |-----------------------------|------------------------------------|
-| **Processor**               | Quad-Core ARM Cortex A57          |
+| **CPU**               | Quad-Core ARM Cortex A57          |
 | **GPU**                     | 128-core Maxwell GPU (472 GFLOPS) |
 | **Memory**                  | 4GB LPDDR4 RAM                    |
 | **Power Consumption**       | 20W (5V, 4A ≈ 3870 mW)            |
