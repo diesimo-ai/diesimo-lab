@@ -20,7 +20,7 @@ In the meantime, find the best model suitable for your application requirements 
 
 | **Device**                  | Arduino Nano 33 BLE Sense          |
 |-----------------------------|------------------------------------|
-| **CPU**               | nRF52840 (ARM Cortex-M4 @ 64 MHz) |
+| **CPU**                     | 1-core nRF52840, @64MHz ARM Cortex-M4 32-bit (FPU)|
 | **GPU**                     | None                              |
 | **Memory**                  | 1MB Flash, 256KB RAM              |
 | **Power Consumption**       | Ultra-low power modes             |
@@ -32,13 +32,14 @@ In the meantime, find the best model suitable for your application requirements 
 | **Dimensions**              | 45mm x 18mm                       |
 | **Use Case**                | TinyML, IoT, wearables            |
 
+Technical specs: ([Source](https://docs.arduino.cc/hardware/nano-33-ble-sense/)) 
 
 ### Lightweight (Entry/Medium) Performance
 ![Raspberry Pi 3B](./resources/images/pi/pi.jpeg)
 
-| **Device**                  | Raspberry Pi                      |
-|-----------------------------|------------------------------------|
-| **CPU**               | Quad-Core ARM Cortex A53          |
+| **Device**                  | Raspberry Pi                            |
+|-----------------------------|-----------------------------------------|
+| **CPU**                     | 4-cores @1.2GHz Broadcom BCM2837 64bit |
 | **GPU**                     | None                              |
 | **Memory**                  | 1GB RAM                           |
 | **Power Consumption**       | 4W (5V, 2.5A ≈ 12.5W, varies by load) |
@@ -50,15 +51,16 @@ In the meantime, find the best model suitable for your application requirements 
 | **Dimensions**              | Not specified                     |
 | **Use Case**                | Lightweight IoT, smart home, education |
 
+Technical specs: ([Source](https://www.raspberrypi.com/products/raspberry-pi-3-model-b/#Specification)) 
 
 ### High Performance Computing/Applications
 ![NVIDIA Jetson Nano](./resources/images/jetson-nano/jet-nano.jpeg)
 
 | **Device**                  | NVIDIA Jetson Nano                |
 |-----------------------------|------------------------------------|
-| **CPU**               | Quad-Core ARM Cortex A57          |
+| **CPU**                     | 4-Core ARM Cortex A57 MPCore          |
 | **GPU**                     | 128-core Maxwell GPU (472 GFLOPS) |
-| **Memory**                  | 4GB LPDDR4 RAM                    |
+| **Memory**                  | 4GB 64-bit LPDDR4 RAM                    |
 | **Power Consumption**       | 20W (5V, 4A ≈ 3870 mW)            |
 | **Storage**                 | MicroSD card (16GB UHS-1 minimum) |
 | **Connectivity**            | None specified (Ethernet, USB supported) |
@@ -68,6 +70,7 @@ In the meantime, find the best model suitable for your application requirements 
 | **Dimensions**              | Not specified                     |
 | **Use Case**                | AI applications, neural networks, image processing |
 
+Technical specs: ([Source](https://developer.nvidia.com/embedded/jetson-nano)) 
 
 ## Embodied Agents
 
@@ -88,7 +91,7 @@ Drone
 
 ![uavs](./resources/images/embodied-agents/uavs.jpg)
 
-## References
+## Resources
 
 - [Edge AI Engineering (Main)](https://github.com/afondiel/edge-ai-engineering)
 - [Edge AI Technical Guide](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/concepts)
@@ -98,4 +101,4 @@ Drone
 - [Edge AI Frameworks](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/concepts/frameworks)
 - [Edge AI Platforms](https://github.com/afondiel/Edge-AI-Platforms)
 - [Edge AI Model Zoos](https://github.com/afondiel/Edge-AI-Model-Zoo)
-- [Edge AI Model Benchmarking](https://github.com/afondiel/Edge-AI-Model-Zoo/blob/main/model-bench-prof-opt-guide.md)
+- [Edge AI Model Benchmarking](https://github.com/afondiel/Edge-AI-Model-Zoo/blob/main/model-bench-guide.md)
