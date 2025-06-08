@@ -2,6 +2,8 @@
 
 ![Edge AI Platforms](./resources/images/cover.jpeg)
 
+[Frameworks](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/lab/examples) | [Model Garden](#edge-ai-models-garden) | [Platforms](#hardware-platforms) | [Benchmark](https://github.com/afondiel/Edge-AI-Model-Zoo/blob/main/model-bench-guide.md) |
+
 Welcome to the Open Edge AI Lab.
 
 ## Edge AI Models Garden
