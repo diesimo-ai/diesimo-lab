@@ -102,7 +102,7 @@ Drone
 
 Collection of hardware-aware benchmarks including custom and industry-aware benchmarks such as [MLPerf](https://mlcommons.org/benchmarks/) built, and tested on real-world [platforms](../platforms/) for real-world performances.
 
-- Please visit the full bench [here](./benchmarks/) (available soon).
+- Please visit the full bench [here](./benchmarks/) (more available soon).
 
 ## Resources
 
