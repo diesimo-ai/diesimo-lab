@@ -2,7 +2,7 @@
 
 ![Edge AI Platforms](./resources/images/cover.jpeg)
 
-[Datasets](#datasets) | [Model Garden](#edge-ai-models-garden) | [Platforms](#hardware-platforms) | [Benchmarks](#benchmarks) |
+[Datasets](#datasets) | [Model Garden](#models-garden) | [Platforms](#hardware-platforms) | [Benchmarks](#benchmarks) |
 
 Welcome to the Open Edge AI Lab.
 
@@ -10,7 +10,7 @@ Welcome to the Open Edge AI Lab.
 
 - Real-world custom-datasets: [HF Collections (Coming Soon)](https://huggingface.co/diesimo-ai/datasets)
 
-## Edge AI Models Garden
+## Models Garden
 
 - Model Garden: [Hugging Face Collections (Coming soon!)](http://huggingface.co/diesimo-ai/models)
 - Demos: [Hugging Face Spaces (Coming soon!)](#)
@@ -100,9 +100,9 @@ Drone
 
 ## Benchmarks
 
-Find the a list of benchmarks spans from some custom-benchs based on industry-aware benchmarks such as [MLPerf](https://mlcommons.org/benchmarks/) for real-world performances.
+Collection of hardware-aware benchmarks including custom and industry-aware benchmarks such as [MLPerf](https://mlcommons.org/benchmarks/) built, and tested on real-world [platforms](../platforms/) for real-world performances.
 
-- Bench: [resources](./benchmarks/)
+- Please visit the full bench [here](./benchmarks/) (available soon).
 
 ## Resources
 
