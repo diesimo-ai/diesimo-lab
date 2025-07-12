@@ -1,6 +1,6 @@
-# Edge AI Benchmark
+# Edge AI Benchmarks
 
-Collection of hardware-aware benchmark resources from custom to industry-aware benchs built, tested on real-world [platforms]().
+Collection of hardware-aware benchmark resources from custom to industry-aware benchs built, tested on real-world [platforms](../platforms/).
 
 ## Resources
 
