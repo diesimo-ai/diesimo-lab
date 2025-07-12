@@ -2,13 +2,17 @@
 
 ![Edge AI Platforms](./resources/images/cover.jpeg)
 
-[Frameworks](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/lab/examples) | [Model Garden](#edge-ai-models-garden) | [Platforms](#hardware-platforms) | [Benchmark](https://github.com/afondiel/Edge-AI-Model-Zoo/blob/main/model-bench-guide.md) |
+[Datasets](#datasets) | [Model Garden](#edge-ai-models-garden) | [Platforms](#hardware-platforms) | [Benchmarks](#benchmarks) |
 
 Welcome to the Open Edge AI Lab.
 
+## Datasets
+
+- Real-world custom-datasets: [HF Collections (Coming Soon)](https://huggingface.co/diesimo-ai/datasets)
+
 ## Edge AI Models Garden
 
-- Model Garden: [Hugging Face Collections (Coming soon!)](https://huggingface.co/collections/diesimo-ai/edge-ai-67856b736bc168b98abf3ee0)
+- Model Garden: [Hugging Face Collections (Coming soon!)](http://huggingface.co/diesimo-ai/models)
 - Demos: [Hugging Face Spaces (Coming soon!)](#)
 
 In the meantime, find the best model suitable for your application requirements here: [Edge AI Model Zoos](https://github.com/afondiel/Edge-AI-Model-Zoo).
@@ -93,6 +97,13 @@ Drone
 
 ![uavs](./resources/images/embodied-agents/uavs.jpg)
 
+
+## Benchmarks
+
+Find the a list of benchmarks spans from some custom-benchs based on industry-aware benchmarks such as [MLPerf](https://mlcommons.org/benchmarks/) for real-world performances.
+
+- Bench: [resources](./benchmarks/)
+
 ## Resources
 
 - [Edge AI Engineering (Main)](https://github.com/afondiel/edge-ai-engineering)
@@ -103,4 +114,4 @@ Drone
 - [Edge AI Frameworks](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/concepts/frameworks)
 - [Edge AI Platforms](https://github.com/afondiel/Edge-AI-Platforms)
 - [Edge AI Model Zoos](https://github.com/afondiel/Edge-AI-Model-Zoo)
-- [Edge AI Model Benchmarking](https://github.com/afondiel/Edge-AI-Model-Zoo/blob/main/model-bench-guide.md)
+- [Edge AI Benchmarking](https://github.com/afondiel/Edge-AI-Benchmarking)
