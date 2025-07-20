@@ -26,11 +26,11 @@ In the meantime, find the best model suitable for your application requirements 
 
 | **Device**                  | Arduino Nano 33 BLE Sense          |
 |-----------------------------|------------------------------------|
-| **CPU**                     | 1-Core @64MHz nRF52840, ARM Cortex-M4 32-bit (FPU)|
-| **GPU**                     | None                              |
+| **Processor**                     | 1-Core @64MHz nRF52840, ARM Cortex-M4 32-bit (FPU)|
+| **Accelerator**                     | None                              |
 | **Memory**                  | 256KB RAM                         |
-| **Power Consumption**       | Ultra-low power (mW)              |
 | **Storage**                 | 1MB Flash                         |
+| **Power Consumption**       | Ultra-low power (mW)              |
 | **Connectivity**            | BLE, NFC                          |
 | **Camera/Display Support**  | None                              |
 | **Sensors**                 | 9-axis IMU, temp, humidity, pressure, microphone, gesture, light |
@@ -38,37 +38,37 @@ In the meantime, find the best model suitable for your application requirements 
 | **Dimensions**              | 45mm x 18mm                       |
 | **Use Case**                | TinyML, IoT, wearables            |
 
-Technical specs: ([Source](https://docs.arduino.cc/hardware/nano-33-ble-sense/)) 
+Full specs: ([Source](https://docs.arduino.cc/hardware/nano-33-ble-sense/)) 
 
 ### Lightweight (Entry/Medium) Performance
 ![Raspberry Pi 3B](./resources/images/pi/pi.jpeg)
 
 | **Device**                  | Raspberry Pi                            |
 |-----------------------------|-----------------------------------------|
-| **CPU**                     | 4-Core @1.2GHz Broadcom BCM2837 64bit |
-| **GPU**                     | None                              |
-| **Memory**                  | 1GB RAM                           |
-| **Power Consumption**       | 4W (5V, 2.5A ≈ 12.5W, varies by load) |
+| **Processor**                     | 4-Core @1.4GHz BCM2837B0, Cortex-A53 64-bit SoC |
+| **Accelerator**                     | None                              |
+| **Memory**                  | 1GB LPDDR2 SDRAM                           |
 | **Storage**                 | SD card                           |
+| **Power Consumption**       | 4W (5V, 2.5A ≈ 12.5W, varies by load) |
 | **Connectivity**            | WiFi, BLE, Ethernet, USB          |
 | **Camera/Display Support**  | 8MP (up to 3840 x 2160)           |
 | **Sensors**                 | None                              |
-| **I/O Pins**                | Not specified                     |
+| **I/O Pins**                | Extended 40-pin GPIO header                     |
 | **Dimensions**              | Not specified                     |
 | **Use Case**                | Lightweight IoT, smart home, education |
 
-Technical specs: ([Source](https://www.raspberrypi.com/products/raspberry-pi-3-model-b/#Specification)) 
+Full specs: ([Source](https://www.raspberrypi.com/products/raspberry-pi-3-model-b-plus/#Specification)) 
 
 ### High Performance Computing/Applications
 ![NVIDIA Jetson Nano](./resources/images/jetson-nano/jet-nano.jpeg)
 
 | **Device**                  | NVIDIA Jetson Nano                |
 |-----------------------------|------------------------------------|
-| **CPU**                     | 4-Core ARM Cortex A57 MPCore          |
-| **GPU**                     | 128-core Maxwell GPU (472 GFLOPS) |
+| **Processor**                     | 4-Core ARM Cortex A57 MPCore          |
+| **Accelerator**                     | 128-core Maxwell GPU (472 GFLOPS) |
 | **Memory**                  | 4GB 64-bit LPDDR4 RAM                    |
-| **Power Consumption**       | 20W (5V, 4A ≈ 3870 mW)            |
 | **Storage**                 | MicroSD card (16GB UHS-1 minimum) |
+| **Power Consumption**       | 20W (5V, 4A ≈ 3870 mW)            |
 | **Connectivity**            | None specified (Ethernet, USB supported) |
 | **Camera/Display Support**  | 8MP (up to 3840 x 2160), Full HD 1080p+ |
 | **Sensors**                 | None                              |
@@ -76,7 +76,7 @@ Technical specs: ([Source](https://www.raspberrypi.com/products/raspberry-pi-3-m
 | **Dimensions**              | Not specified                     |
 | **Use Case**                | AI applications, neural networks, image processing |
 
-Technical specs: ([Source](https://developer.nvidia.com/embedded/jetson-nano)) 
+Full specs: ([Source](https://developer.nvidia.com/embedded/jetson-nano)) 
 
 ## Embodied Agents
 
