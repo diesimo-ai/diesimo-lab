@@ -1,6 +1,6 @@
 # Edge AI Benchmarks
 
-Collection of hardware-aware benchmarks including custom and industry-aware benchmarks such as [MLPerf](https://mlcommons.org/benchmarks/) built, and tested on real-world [platforms](../platforms/) for real-world performances.
+Explore a collection of Edge AI system benchmarks, including custom and industry standards benchmarks, like [MLPerf](https://mlcommons.org/benchmarks/) built and tested on real-world [platforms](../platforms/) for practical performances.
 
 ## Resources
 
