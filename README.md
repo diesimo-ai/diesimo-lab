@@ -4,7 +4,7 @@
 
 [Datasets](#datasets) | [Model Garden](#models-garden) | [Platforms](#hardware-platforms) | [Benchmarks](#benchmarks) |
 
-Welcome to the Open Edge AI Lab.
+Welcome to Diesimo Lab, your ultimate resource for Open Edge Intelligence from datasets, models, platforms to industry-aware benchmarks.
 
 ## Datasets
 
