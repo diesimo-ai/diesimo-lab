@@ -2,7 +2,7 @@
 
 ![Edge AI Platforms](./resources/images/cover.jpeg)
 
-[Datasets](#datasets) | [Model Garden](#models-garden) | [Platforms](#hardware-platforms) | [Benchmarks](#benchmarks) |
+[Datasets](#datasets) | [Models](#models-garden) | [Platforms](#hardware-platforms) | [Benchmarks](#benchmarks) |
 
 Welcome to Diesimo Lab, your go-to for **Open Edge Intelligence**.
 
@@ -117,4 +117,3 @@ Learn more [here](./benchmarks/).
 - [Edge AI Platforms](https://github.com/afondiel/Edge-AI-Platforms)
 - [Edge AI Benchmarking](https://github.com/afondiel/Edge-AI-Benchmarking)
 - [Edge AI Technical Guide](https://github.com/afondiel/computer-science-notebook/tree/master/core/systems/edge-computing/edge-ai/concepts)
-
