@@ -102,9 +102,10 @@ Drone
 
 ## Benchmarks
 
-Explore a collection of Edge AI system benchmarks, including custom and industry standards benchmarks, like [MLPerf](https://mlcommons.org/benchmarks/) built and tested on real hardware [platforms](../platforms/) for real-world performances.
+Explore a range of Edge AI benchmarks, including both custom and industry-standard options like [MLPerf](https://mlcommons.org/benchmarks/), all tested on real [hardware](../platforms/) to ensure real-world performance.
 
-Learn more [here](./benchmarks/).
+> [!NOTE]
+> Coming soon!
 
 ## Resources
 
