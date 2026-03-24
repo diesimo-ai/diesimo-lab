@@ -4,7 +4,7 @@
 
 [Datasets](#datasets) | [Models](#models-garden) | [Platforms](#hardware-platforms) | [Benchmarks](#benchmarks) |
 
-Welcome to Diesimo Lab, your go-to for **Open Edge Intelligence**.
+Welcome to **Diesimo Lab** your go-to Open Research Lab for **Edge Intelligence** and Efficiency.
 
 Find out practical resources and recipes to streamline your Edge AI development and experiments, from datasets, models, benchmarks tested on real-world platforms with industry standards in mind.
 
