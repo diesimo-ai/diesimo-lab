@@ -1,0 +1,28 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git status*)",
+      "Bash(git add *)",
+      "Bash(git diff*)",
+      "Bash(git log*)",
+      "Bash(git branch*)",
+      "Bash(git checkout*)",
+      "Bash(git stash*)",
+      "Bash(gh pr *)",
+      "Bash(gh issue *)",
+      "Bash(black *)",
+      "Bash(ruff *)",
+      "Bash(uv run pytest*)",
+      "Bash(uv pip *)",
+      "Bash(nox *)"
+    ]
+  },
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Edit|Write",
+        "command": "file=\"$CLAUDE_FILE_PATH\"; if [[ \"$file\" == *.py ]]; then black --line-length 100 --quiet \"$file\" 2>/dev/null; ruff check --fix --quiet \"$file\" 2>/dev/null; fi"
+      }
+    ]
+  }
+}
