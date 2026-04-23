@@ -51,9 +51,12 @@ uv pip install -r requirements-dev.txt  # Dev deps
 ## Edge Repo Sync
 
 Source repos (local dev, public on GitHub):
-- edge-vision: `/home/muntu/Work/business/diesimo/consulting/engineering/projects/project-lib/edge-vision`
-- edge-audio: `/home/muntu/Work/business/diesimo/consulting/engineering/projects/project-lib/edge-audio`
 - edge-language: `/home/muntu/Work/business/diesimo/consulting/engineering/projects/project-lib/edge-language`
+- edge-audio: `/home/muntu/Work/business/diesimo/consulting/engineering/projects/project-lib/edge-audio`
+- edge-vision: `/home/muntu/Work/business/diesimo/consulting/engineering/projects/project-lib/edge-vision`
+- edge-time-series: `/home/muntu/Work/business/diesimo/consulting/engineering/projects/project-lib/times-series`
+- edge-multimodal: `/home/muntu/Work/business/diesimo/consulting/engineering/projects/project-lib/multimodal`
+- edge-agents: `/home/muntu/Work/business/diesimo/consulting/engineering/projects/project-lib/agents`
 - edge-ai-engineering: `/home/muntu/Work/Lab/projects/edge-ai-engineering`
 
 Sync method: script-based copy after validation. Tracked in `sync-manifest.json`.
