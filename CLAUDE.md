@@ -1,4 +1,4 @@
-# CLAUDE.md — Diesimo Lab
+# CLAUDE.md
 
 ## What This Repo Is
 
@@ -57,7 +57,6 @@ Source repos (local dev, public on GitHub):
 - edge-time-series: `/home/muntu/Work/business/diesimo/consulting/engineering/projects/project-lib/times-series`
 - edge-multimodal: `/home/muntu/Work/business/diesimo/consulting/engineering/projects/project-lib/multimodal`
 - edge-agents: `/home/muntu/Work/business/diesimo/consulting/engineering/projects/project-lib/agents`
-- edge-ai-engineering: `/home/muntu/Work/Lab/projects/edge-ai-engineering`
 
 Sync method: script-based copy after validation. Tracked in `sync-manifest.json`.
 
