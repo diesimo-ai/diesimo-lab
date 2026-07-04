@@ -24,6 +24,8 @@ In the meantime, find the best model suitable for your application requirements 
 
 ### (Ultra) Low Performance
 
+**Arduino Nano 33 BLE**
+
 ![Arduino Nano 33 BLE Sense](./resources/images/arduino-nano/nano.jpeg)
 
 | **Device**                  | Arduino Nano 33 BLE Sense          |
@@ -40,7 +42,28 @@ In the meantime, find the best model suitable for your application requirements 
 | **Dimensions**              | 45mm x 18mm                       |
 | **Use Case**                | TinyML, IoT, wearables            |
 
-Full specs: ([Source](https://docs.arduino.cc/hardware/nano-33-ble-sense/)) 
+Full Tech specs: ([Source](https://docs.arduino.cc/hardware/nano-33-ble-sense/)) 
+
+**Raspberry Pi Pico WH**
+
+![Pico WH](./resources/images/pico/pico-wh-cover.png)
+
+| **Device**                  | Raspberry Pi Pico WH               |
+|-----------------------------|------------------------------------|
+| **Processor**               | 2-Core @133MHz RP2040, ARM Cortex-M0+ 32-bit (no FPU) |
+| **Accelerator**             | None (8x PIO state machines for custom I/O) |
+| **Memory**                  | 264KB on-chip SRAM                |
+| **Storage**                 | 2MB on-board QSPI Flash           |
+| **Power Consumption**       | 1.8-5.5V DC input (micro-USB/VSYS), sleep + dormant modes |
+| **Connectivity**            | 2.4GHz 802.11n WiFi (WPA3), Bluetooth 5.2 (BLE + Classic), USB 1.1 device/host |
+| **Camera/Display Support**  | None onboard (via SPI/I2C modules, e.g. Arducam) |
+| **Sensors**                 | On-chip temperature sensor        |
+| **I/O Pins**                | 26 GPIO (3x 12-bit ADC), 2x SPI, 2x I2C, 2x UART, 16x PWM; pre-soldered 2x20 headers + 3-pin debug |
+| **Dimensions**              | 51mm x 21mm                       |
+| **Use Case**                | TinyML, IoT, low-power wireless sensing |
+
+Full Tech specs: ([Source](https://www.raspberrypi.com/products/raspberry-pi-pico/)) 
+
 
 ### Lightweight (Entry/Medium) Performance
 ![Raspberry Pi 3B](./resources/images/pi/pi.jpeg)
@@ -59,7 +82,7 @@ Full specs: ([Source](https://docs.arduino.cc/hardware/nano-33-ble-sense/))
 | **Dimensions**              | Not specified                     |
 | **Use Case**                | Lightweight IoT, smart home, education |
 
-Full specs: ([Source](https://www.raspberrypi.com/products/raspberry-pi-3-model-b-plus/#Specification)) 
+Full Tech specs: ([Source](https://www.raspberrypi.com/products/raspberry-pi-3-model-b-plus/#Specification)) 
 
 ### High Performance Computing/Applications
 ![NVIDIA Jetson Nano](./resources/images/jetson-nano/jet-nano.jpeg)
@@ -78,7 +101,7 @@ Full specs: ([Source](https://www.raspberrypi.com/products/raspberry-pi-3-model-
 | **Dimensions**              | Not specified                     |
 | **Use Case**                | AI applications, neural networks, image processing |
 
-Full specs: ([Source](https://developer.nvidia.com/embedded/jetson-nano)) 
+Full Tech specs: ([Source](https://developer.nvidia.com/embedded/jetson-nano)) 
 
 ## Embodied Agents
 
