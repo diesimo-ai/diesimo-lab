@@ -19,7 +19,6 @@ Find out practical resources and recipes to streamline your Edge AI development 
 
 In the meantime, find the best model suitable for your application requirements here: [Edge AI Model Zoos](https://github.com/afondiel/Edge-AI-Model-Zoo).
 
-
 ## Hardware Platforms
 
 ### (Ultra) Low Performance
@@ -79,12 +78,35 @@ Full Tech specs: ([Source](https://www.raspberrypi.com/products/raspberry-pi-pic
 | **Camera/Display Support**  | 8MP (up to 3840 x 2160)           |
 | **Sensors**                 | None                              |
 | **I/O Pins**                | Extended 40-pin GPIO header                     |
-| **Dimensions**              | Not specified                     |
+| **Dimensions**              | Not specified                         |
 | **Use Case**                | Lightweight IoT, smart home, education |
 
 Full Tech specs: ([Source](https://www.raspberrypi.com/products/raspberry-pi-3-model-b-plus/#Specification)) 
 
-### High Performance Computing/Applications
+### High Performance Applications
+
+**Qualcomm Arduino Uno Q**
+
+![Qualcomm Arduino Uno Q](./resources/images/arduino-uno-q/arduino-uno-q-cover.jpg)
+
+| **Device**                  | Qualcomm Arduino UNO Q             |
+|-----------------------------|------------------------------------|
+| **Processor**               | 4-Core @2.0GHz Qualcomm Dragonwing QRB2210, ARM Cortex-A53 64-bit + STM32U585 MCU (1-Core @160MHz ARM Cortex-M33, FPU) |
+| **Accelerator**             | Adreno 702 GPU @845MHz (OpenCL), 2x ISP (13MP + 13MP or 25MP @30fps) |
+| **Memory**                  | 2GB or 4GB LPDDR4X (MCU: 786KB SRAM) |
+| **Storage**                 | 16GB or 32GB eMMC (MCU: 2MB flash) |
+| **Power Consumption**       | 5V @3A via USB-C (PD 5V/3A profile) or 7-24V DC input (VIN) |
+| **Connectivity**            | WiFi 5 802.11a/b/g/n/ac dual-band (2.4/5GHz), Bluetooth 5.1, USB-C 3.1 (host/device role switching) |
+| **Camera/Display Support**  | 4-lane MIPI-CSI-2 camera, 4-lane MIPI-DSI display, 1080p video out via USB-C (DisplayPort Alt-Mode), 8x13 blue LED matrix |
+| **Sensors**                 | None onboard                      |
+| **I/O Pins**                | UNO shield-compatible headers: 18-pin digital @3.3V (SPI, I2C, UART, PWM, CAN), 14-pin analog (ADC), Qwiic (I2C), 2x 60-pin high-speed bottom connectors |
+| **Dimensions**              | 68.85mm x 53.34mm (UNO form factor) |
+| **Use Case**                | Edge AI/ML, machine vision, robotics (Debian Linux + Zephyr RTOS) |
+
+Full Tech specs: ([Source](https://docs.arduino.cc/hardware/uno-q/#tech-specs)) 
+
+**NVIDIA Jetson Nano**
+
 ![NVIDIA Jetson Nano](./resources/images/jetson-nano/jet-nano.jpeg)
 
 | **Device**                  | NVIDIA Jetson Nano                |
